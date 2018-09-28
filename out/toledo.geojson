@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"geometry":{"coordinates":[-83.5127283,41.6786754],"type":"Point"},"properties":{"Age":30,"AgeGroup":"3","City":"Toledo","NumberofDeaths":28,"NumberofFemale":5,"NumberofMale":23,"State":"OH"},"type":"Feature"}]}

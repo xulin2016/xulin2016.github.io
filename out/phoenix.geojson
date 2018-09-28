@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"geometry":{"coordinates":[-112.1213022,33.361168],"type":"Point"},"properties":{"Age":40,"AgeGroup":"3","City":"Phoenix","NumberofDeaths":100,"NumberofFemale":16,"NumberofMale":84,"State":"AZ"},"type":"Feature"}]}

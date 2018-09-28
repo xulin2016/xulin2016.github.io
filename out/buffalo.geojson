@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"geometry":{"coordinates":[-78.8783689,42.8864468],"type":"Point"},"properties":{"Age":23,"AgeGroup":"3","City":"Buffalo","NumberofDeaths":36,"NumberofFemale":4,"NumberofMale":32,"State":"NY"},"type":"Feature"}]}

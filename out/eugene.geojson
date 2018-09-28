@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"geometry":{"coordinates":[-123.0950506,44.0505054],"type":"Point"},"properties":{"Age":44,"AgeGroup":"3","City":"Eugene","NumberofDeaths":1,"NumberofFemale":0,"NumberofMale":1,"State":"OR"},"type":"Feature"}]}

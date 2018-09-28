@@ -1,0 +1,66 @@
+body {
+  font-family: Georgia, serif;
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+  line-height: 1.4;
+}
+.comments {
+  margin: auto;
+  width: 80%;
+  text-align: left;
+}
+
+.map {
+  font: 12px sans-serif;
+  text-align: right;
+  width: 100%;
+  height: 100%;
+  display:inline-block;
+  margin-left: 20px;
+}
+
+path {
+  stroke-width: 1px;
+  stroke: white;
+  cursor: pointer;
+}
+
+.features1 path:hover, path.highlighted {
+  fill: tomato;
+}
+.feature1 path {
+  stroke-width: 1px;
+  stroke: black;
+  cursor: pointer;
+}
+
+.path2 {
+  cursor: pointer;
+}
+
+div.tooltip {
+  position: absolute;
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  font-family: Georgia, serif;
+  padding: 4px 8px;
+  display: block;
+  white-space: pre-line;
+}
+
+h1 {
+  font-size: 32px;
+    font-family: Georgia, serif;
+    color: black;
+}
+.modify { 
+display: inline-block; 
+border: 1px solid thistle; 
+right margin:5px;
+padding:5px;
+width: 70%;
+height: 20%;
+}
